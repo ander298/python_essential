@@ -1,0 +1,9 @@
+{
+    "python.pythonpath": "venv/bin/python",
+    "code-runner.executorMap": {   
+        "python": "venv/bin/python",
+
+       
+    },
+    "python.analysis.typeCheckingMode": "basic"
+}
